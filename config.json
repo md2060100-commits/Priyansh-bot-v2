@@ -19,10 +19,10 @@
     "BOTNAME": "Riza",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100079095211737"
+        ""
     ],
     "NDH": [
-        "100079095211737"
+        ""
     ],
     "DATABASE": {
         "sqlite": {
